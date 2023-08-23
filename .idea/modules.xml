@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chujilianxi/.idea/chujilianxi.iml" filepath="$PROJECT_DIR$/../chujilianxi/.idea/chujilianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../unittest-python-request-master/.idea/day30_.iml" filepath="$PROJECT_DIR$/../../unittest-python-request-master/.idea/day30_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhojilianxi.iml" filepath="$PROJECT_DIR$/.idea/zhojilianxi.iml" />
+    </modules>
+  </component>
+</project>

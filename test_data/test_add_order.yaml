@@ -1,0 +1,28 @@
+-
+  feature: 订单管理模块
+  story: 订单成交接口
+  title: 正常新增订单
+  request:
+    method: post
+    url: http://demo_center.hailizhiyun.com/api/plat_quotes/quotes/deal
+    data:
+      container_quantity: 1
+      weight: 23
+      cargo_value: 12
+      shipping_time: 2023-08-19 09:25
+      discharge_time: 2023-09-01 00:00:00
+      send_address: 天安门广场-国旗
+      send_name: 杨桐
+      send_tel: 18299898236
+      receipt_address: 秦皇岛市
+      receipt_name: 宇文化及
+      receipt_tel: 13790982214
+      send_remark: case2
+      receipt_remark: test2
+      order_quotes_id: 532483486984963521
+      product_id: 219
+      customer_id: 1854  # 简知科技客户
+    headers:
+      center-token: center_token
+  validate: null
+

@@ -1,0 +1,23 @@
+-
+  feature: 登录模块
+  story: 登录接口
+  title: 成功获取登录token值
+  request:
+    method: post
+    url: http://demo_center.hailizhiyun.com/api/login
+    data:
+      cellphone: 15913139412
+      password: admin123
+  validate: null
+#-
+#  feature: 登录模块1
+#  story: 登录接口1
+#  title: 密码为空
+#  request:
+#    method: post
+#    url: http://demo_center.hailizhiyun.com/api/login
+#    data:
+#      cellphone: 15913139412
+#      password: ""
+#  validate: null
+
